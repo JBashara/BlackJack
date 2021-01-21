@@ -11,4 +11,4 @@
  In order to play this game, you'll need the Java Runtime Environment 1.8.0 and the Java Development Kit 1.8.0.
  To download the game go to the green "Code" button and download the zip file for this repository. 
  Once you extract the files open the command line and navigate to the dist folder. (ex: C:\path\to\BlackJack-main\dist).
- Once there enter: java -jar BlackJack.jar. This will launch the game.
+ Once there enter: <code>java -jar BlackJack.jar</code>. This will launch the game.
